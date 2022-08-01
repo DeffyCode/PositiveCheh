@@ -52,7 +52,7 @@ print("PositiveCheh démarré - " + str(followers_count) + " abonnés.")
 
 # Définir les dates (maintenant et création)
 now = datetime.now()
-creation = datetime(2022, 7, 25, 17, 44)
+creation = datetime(2022, 7, 25, 17, 25)
 interval = str(now - creation)
 
 # Constante pour récupérer le nombre de jours entre la création et maintenant
